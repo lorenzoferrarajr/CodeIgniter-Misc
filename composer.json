@@ -6,7 +6,8 @@
         }
     ],
     "require": {
-        "zendframework/zendframework": "2.*"
+        "zendframework/zendframework": "2.*",
+        "doctrine/orm": "*"
     },
     "autoload": {
         "psr-0": {
